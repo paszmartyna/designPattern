@@ -1,0 +1,11 @@
+C:\Users\sod10029531\Programowanie\DesignPattern\ProxyPattern\ProxyPattern\bin\Debug\netcoreapp3.0\ProxyPattern.exe
+C:\Users\sod10029531\Programowanie\DesignPattern\ProxyPattern\ProxyPattern\bin\Debug\netcoreapp3.0\ProxyPattern.deps.json
+C:\Users\sod10029531\Programowanie\DesignPattern\ProxyPattern\ProxyPattern\bin\Debug\netcoreapp3.0\ProxyPattern.runtimeconfig.json
+C:\Users\sod10029531\Programowanie\DesignPattern\ProxyPattern\ProxyPattern\bin\Debug\netcoreapp3.0\ProxyPattern.runtimeconfig.dev.json
+C:\Users\sod10029531\Programowanie\DesignPattern\ProxyPattern\ProxyPattern\bin\Debug\netcoreapp3.0\ProxyPattern.dll
+C:\Users\sod10029531\Programowanie\DesignPattern\ProxyPattern\ProxyPattern\bin\Debug\netcoreapp3.0\ProxyPattern.pdb
+C:\Users\sod10029531\Programowanie\DesignPattern\ProxyPattern\ProxyPattern\obj\Debug\netcoreapp3.0\ProxyPattern.csprojAssemblyReference.cache
+C:\Users\sod10029531\Programowanie\DesignPattern\ProxyPattern\ProxyPattern\obj\Debug\netcoreapp3.0\ProxyPattern.AssemblyInfoInputs.cache
+C:\Users\sod10029531\Programowanie\DesignPattern\ProxyPattern\ProxyPattern\obj\Debug\netcoreapp3.0\ProxyPattern.AssemblyInfo.cs
+C:\Users\sod10029531\Programowanie\DesignPattern\ProxyPattern\ProxyPattern\obj\Debug\netcoreapp3.0\ProxyPattern.dll
+C:\Users\sod10029531\Programowanie\DesignPattern\ProxyPattern\ProxyPattern\obj\Debug\netcoreapp3.0\ProxyPattern.pdb
